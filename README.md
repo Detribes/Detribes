@@ -16,7 +16,7 @@ val detribes = buildProgrammer {
 
 ____
 
-:point_down:	__i had experience with:__
+:point_down:	__i have experience with:__
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%23ED8B00.svg?style=for-the-badge&logo=kotlin&logoColor=purple)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
