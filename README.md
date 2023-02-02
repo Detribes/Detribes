@@ -5,7 +5,7 @@ val detribes = buildProgrammer {
   name("Roman Galinovski")
   age(20)
   education("ITMO University")
-  stack(listOf("Android","Flutter"))
+  stack(listOf("Android","Kotlin"))
   work(Unemployed)
 }
 ```
