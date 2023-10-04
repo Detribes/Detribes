@@ -5,8 +5,8 @@ val detribes = buildProgrammer {
   name("Roman Galinovski")
   age(20)
   education("ITMO University")
-  stack(listOf("Android","Kotlin"))
-  work(Unemployed)
+  stack(listOf("Android","Kotlin", "Dart", "Flutter"))
+  work(Kraud())
 }
 ```
  :incoming_envelope: __contact me:__
