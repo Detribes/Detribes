@@ -3,7 +3,7 @@
 ```kotlin
 val detribes = buildProgrammer {
   name("Roman Galinovski")
-  age(20)
+  age(21)
   education("ITMO University")
   stack(listOf("Android","Kotlin", "Dart", "Flutter"))
   work(Kraud())
