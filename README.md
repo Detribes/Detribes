@@ -17,7 +17,7 @@ val detribes = buildProgrammer {
 ____
 
 :point_down:	__i have experience with:__
-
+![Dart](https://img.shields.io/badge/dart-%23ED8B00.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23ED8B00.svg?style=for-the-badge&logo=kotlin&logoColor=purple)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
