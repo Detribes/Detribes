@@ -6,7 +6,7 @@ val detribes = buildProgrammer {
   age(21)
   education("ITMO University")
   stack(listOf("Android","Kotlin", "Dart", "Flutter"))
-  work(Kraud())
+  work(listOf(DohoD(), Kraud())
 }
 ```
  :incoming_envelope: __contact me:__
