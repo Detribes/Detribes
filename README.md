@@ -1,13 +1,17 @@
 ### Welcome to my page 👋
 
-```kotlin
-val detribes = buildProgrammer {
-  name("Roman Galinovski")
-  age(21)
-  education("ITMO University")
-  stack(listOf("Android","Kotlin", "Dart", "Flutter"))
-  work(listOf(DohoD())
-}
+```dart
+final detribes = const Developer(
+  name: Text("Roman Galinovski"),
+  age: 22,
+  education: University(
+    title: "ITMO University",
+    degree: "Bachelors",
+    graduation: 2024,
+  ),
+  stack: ["Android","Kotlin", "Dart", "Flutter"],
+  work: Freelance(),
+);
 ```
  :incoming_envelope: __contact me:__
 
