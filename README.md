@@ -1,7 +1,7 @@
 ### Welcome to my page 👋
 
 ```dart
-final detribes = const Developer(
+const detribes = Developer(
   name: Text("Roman Galinovski"),
   age: 22,
   education: University(
