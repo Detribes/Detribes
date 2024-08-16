@@ -13,6 +13,19 @@ const detribes = Developer(
   work: Freelance(),
 );
 ```
+<p align="left"> <img src="https://komarev.com/ghpvc/?Detribesvipinmehra535&label=Profile%20views&color=0e75b6&style=flat" alt="vipinmehra535" /> </p>
+
+
+<div align="center" style="display: flex; justify-content: space-evenly;" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vipinmehra535&"
+        alt="vipinmehra535" /><br><br>
+    <img src="https://github-readme-stats.vercel.app/api?Detribesvipinmehra535&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+        height="150" alt="stats graph"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?Detribesvipinmehra535&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+        height="150" alt="languages graph" />
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?Detribesvipinmehra535&theme=github-dark&radius=13&order=55" height="365" alt="activity-graph graph" />
  :incoming_envelope: __contact me:__
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Detribes)
