@@ -17,11 +17,8 @@ const detribes = Developer(
 
 
 <div align="center" style="display: flex; justify-content: space-evenly;" >
-<br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Detribes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
-        height="150" alt="stats graph"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Detribes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-        height="150" alt="languages graph" />
+    <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=Detribes&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Detribes&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Detribes&theme=github-dark&radius=13&order=55" height="365" alt="activity-graph graph" />
