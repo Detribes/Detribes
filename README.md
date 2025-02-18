@@ -9,8 +9,11 @@ const detribes = Developer(
     degree: "Bachelors",
     graduation: 2024,
   ),
-  stack: ["Android","Kotlin", "Dart", "Flutter"],
-  work: Friflex(),
+  stack: ["Dart", "Flutter", "Android", "Kotlin",],
+  work: Friflex(
+    position: "Flutter developer",
+    technologies: ["flutter_bloc", "hms", "gms", "intl", "navigator2.0", "drift"]
+  ),
 );
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Detribes&label=Profile%20views&color=0e75b6&style=flat" alt="vipinmehra535" /> </p>
@@ -21,7 +24,6 @@ const detribes = Developer(
   <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Detribes&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Detribes&theme=github-dark&radius=13&order=55" height="365" alt="activity-graph graph" />
  :incoming_envelope: __contact me:__
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Detribes)
