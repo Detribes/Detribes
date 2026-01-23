@@ -1,16 +1,16 @@
 ### Welcome to my page 👋
 
 ```dart
-const detribes = const Developer(
+final detribes = const Developer(
   name: Text("Roman Galinovski"),
-  age: 22,
+  age: 23,
   education: University(
     title: "ITMO University",
     degree: "Bachelors",
     graduation: 2024,
   ),
   stack: ["Dart", "Flutter", "Android", "Kotlin",],
-  work: Friflex(
+  work: Diom(
     position: "Flutter developer",
     technologies: ["flutter_bloc", "hms", "gms", "intl", "navigator2.0", "drift"]
   ),
