@@ -9,10 +9,10 @@ final detribes = const Developer(
     degree: "Bachelors",
     graduation: 2024,
   ),
-  stack: ["Dart", "Flutter", "Android", "Kotlin",],
+  stack: const ["Dart", "Flutter", "Android", "Kotlin",],
   work: Diom(
     position: "Flutter developer",
-    technologies: ["flutter_bloc", "hms", "gms", "intl", "navigator2.0", "drift"]
+    technologies: const ["flutter_bloc", "rxdart", "navigator2.0", "drift",]
   ),
 );
 ```
