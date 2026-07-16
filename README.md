@@ -3,16 +3,16 @@
 ```dart
 final detribes = const Developer(
   name: Text("Roman Galinovski"),
-  age: 23,
+  age: 24,
   education: University(
     title: "ITMO University",
     degree: "Bachelors",
     graduation: 2024,
   ),
   stack: const ["Dart", "Flutter", "Android", "Kotlin",],
-  work: Diom(
-    position: "Flutter developer",
-    technologies: const ["flutter_bloc", "rxdart", "navigator2.0", "drift",]
+  work: RussianAgriculturalBank(
+    position: "Senior Flutter developer",
+    technologies: const ["riverpod", "rxdart", "navigator2.0", "drift",]
   ),
 );
 ```
