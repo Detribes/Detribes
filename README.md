@@ -18,12 +18,6 @@ final detribes = const Developer(
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Detribes&label=Profile%20views&color=0e75b6&style=flat" alt="vipinmehra535" /> </p>
 
-
-<div align="center" style="display: flex; justify-content: space-evenly;" >
-    <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=Detribes&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Detribes&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-</div>
-
  :incoming_envelope: __contact me:__
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Detribes)
